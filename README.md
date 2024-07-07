@@ -1,1 +1,1 @@
-# These is the AI text summarizer app that i have builted using postman and using the hugging face API Requests and Models. 
+# This is the AI text summarizer app I have built using Postman and the hugging face API Requests and Models. 
